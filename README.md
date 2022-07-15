@@ -7,7 +7,7 @@ The number of terms is finite. We need to choose it so that the Fourier series i
 approximated the original function
 
 # How to run the code ?
-You just need to copy the code in google colab notebook or jupiter notebook and run it
+You just need to open Partial_sums_of_Fourier_series.ipynb in google colab notebook or jupiter notebook and run it
 
 ![image](https://user-images.githubusercontent.com/34397634/179201020-f87e37b9-b041-4f8b-87e1-a19029afe1d8.png)
 
